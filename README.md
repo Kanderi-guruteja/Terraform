@@ -1,2 +1,2 @@
 # Terraform
-hi this is guru
+Utilizing Github to launch Terraform 
